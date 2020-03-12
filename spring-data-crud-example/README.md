@@ -1,6 +1,7 @@
 Reference document for the restful-api application : 
 ----------------------------------------------------
 Pre requisites for this application :
+
 	1. Technical requirements :
 		1.1 Spring tool suite 
 		1.2 POSTMAN api client 
